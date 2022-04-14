@@ -1,0 +1,11 @@
+
+#drum-machine {
+    margin: 50px;
+    height: 50vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+
+
